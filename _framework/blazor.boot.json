@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Oxygen.Web",
   "resources": {
-    "hash": "sha256-sRnMkO9OkLicZ2MHhCQAVWPAYKbTET8ETy+bgeyX2Y4=",
+    "hash": "sha256-egw9QdSAXcaoi815tYdaQHIUt6V039tQoyNIVaLv+1c=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.dk63nw4yr0.js": "sha256-7mUf77X9kA8XQSanKrMFFP42Cd+qNdOCGHeI1c5JxXo="
     },
@@ -38,7 +38,7 @@
       "Microsoft.FluentUI.AspNetCore.Components.wasm": "sha256-2G5eqddfegaeNuAkcpL0/egykyJX62B4SY0w2w+ajQk=",
       "Microsoft.JSInterop.wasm": "sha256-WfdKS7v4K0fso6QKrtFTEoyf4Pc/zjLesWTllrtnPZk=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-rhDkGvVEd5YGb2JsVk1xQC7gCF8TXNfpDfo9dGFhuyI=",
-      "Oxygen.Web.wasm": "sha256-HZgApAYz6A/TnIa2jiP/NM5Cb1R9SIjQoG5Zhe+1e4g=",
+      "Oxygen.Web.wasm": "sha256-YQmPFVdQNxYl3s8wMhAt1V4Vk+v3Bxoe3hv+yIitffI=",
       "System.Collections.Concurrent.wasm": "sha256-HxQSdsGhrw3Elz1Tc7UPWMBgu1fAviOopzrSaulwY7o=",
       "System.Collections.NonGeneric.wasm": "sha256-DL+wT8yuH0DFo5OFHWfZn1WobB4v7wGwfXXC4cGUpJo=",
       "System.Collections.Specialized.wasm": "sha256-FsEfNIIUv/3JloKedc9+8sBDQdzsXK/0Eh4bBT0BdQI=",
