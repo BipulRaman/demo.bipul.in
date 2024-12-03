@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Oxygen.Web",
   "resources": {
-    "hash": "sha256-Zsz5ERCQRU3O81yrzJ/owXnWN/zJBr8We0fOKBnh2Hg=",
+    "hash": "sha256-jkDvBFGwgvwho1bMbnEw2+CGXSfApAeeUySSMhhkNNY=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Authorization.qmwpqs06ou.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -24,7 +24,7 @@
       "Microsoft.FluentUI.AspNetCore.Components.fnrr45pdxt.wasm": "Microsoft.FluentUI.AspNetCore.Components.wasm",
       "Microsoft.JSInterop.2d19zz79ld.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "Oxygen.Web.xg6ufjkraa.wasm": "Oxygen.Web.wasm",
+      "Oxygen.Web.vnn41x5zin.wasm": "Oxygen.Web.wasm",
       "System.Collections.Concurrent.ethj57xain.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.fmuw9rwuxs.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.1gp2y6r7x2.wasm": "System.Collections.NonGeneric.wasm",
@@ -105,7 +105,7 @@
       "Microsoft.FluentUI.AspNetCore.Components.fnrr45pdxt.wasm": "sha256-RbNZeedmGd6UY0AXMxad1diMoPaSet3VJmTtJbwImm8=",
       "Microsoft.JSInterop.2d19zz79ld.wasm": "sha256-2nGRykN4fLaXw0pzWrJN49QezClnxD8+ycOa/TwaOtQ=",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "sha256-99wG3VH14sWkwPaF5rX6YAcJvtAhDuqonwihvj2m5HA=",
-      "Oxygen.Web.xg6ufjkraa.wasm": "sha256-QRfgUSK5yntohuT0wWIIyxn2WbUgWC4ZGqzCtHYkA+Q=",
+      "Oxygen.Web.vnn41x5zin.wasm": "sha256-yyWYDmJ/SDJwHorP9py2svP9wbmaaA+VZ65fq3c11C8=",
       "System.Collections.Concurrent.ethj57xain.wasm": "sha256-8hGGQJOwIfgGwKDPOe+uVCYNmtkYic8wvSLa9TEa8aU=",
       "System.Collections.Immutable.fmuw9rwuxs.wasm": "sha256-+Sf0wE7mPP3VglZd5ONFBigNdvj1HHWRIf5u9wVmRlw=",
       "System.Collections.NonGeneric.1gp2y6r7x2.wasm": "sha256-r2gzeXVp7c6Ehrl+YTbsbaz9mlDCg535LfslZls2Wpg=",
