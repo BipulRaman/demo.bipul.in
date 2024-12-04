@@ -1,0 +1,6482 @@
+[
+  {
+    "SchoolName": "Nicobar",
+    "SchoolId": "148",
+    "stateId": "1",
+    "StateName": "ANDAMAN & NICOBAR",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "301148",
+    "StateCode": "AN"
+  },
+  {
+    "SchoolName": "North And Middle Andaman",
+    "SchoolId": "146",
+    "stateId": "1",
+    "StateName": "ANDAMAN & NICOBAR",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "301146",
+    "StateCode": "AN"
+  },
+  {
+    "SchoolName": "South Andaman",
+    "SchoolId": "151",
+    "stateId": "1",
+    "StateName": "ANDAMAN & NICOBAR",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "301151",
+    "StateCode": "AN"
+  },
+  {
+    "SchoolName": "Anantapur",
+    "SchoolId": "156",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302156",
+    "StateCode": "AN"
+  },
+  {
+    "SchoolName": "Chittoor",
+    "SchoolId": "158",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302158",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "East Godavari-1",
+    "SchoolId": "587",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302587",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "East Godavari-2",
+    "SchoolId": "589",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302589",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Guntur",
+    "SchoolId": "168",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302168",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Kadapa",
+    "SchoolId": "171",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302171",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Krishna",
+    "SchoolId": "175",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302175",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Kurnool",
+    "SchoolId": "177",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302177",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Nellore",
+    "SchoolId": "789",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302789",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Prakasam-1",
+    "SchoolId": "593",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302593",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Prakasam-2",
+    "SchoolId": "596",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302596",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Srikakulam",
+    "SchoolId": "187",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302187",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Visakhapatnam",
+    "SchoolId": "189",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302189",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Viziangaram",
+    "SchoolId": "193",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302193",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "West Godawari",
+    "SchoolId": "196",
+    "stateId": "2",
+    "StateName": "ANDHRA PRADESH",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "302196",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Anjaw",
+    "SchoolId": "198",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803198",
+    "StateCode": "AP"
+  },
+  {
+    "SchoolName": "Changlang",
+    "SchoolId": "201",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803201",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Dibang Valley",
+    "SchoolId": "220",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803220",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "East Kameng",
+    "SchoolId": "206",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803206",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "East Siang",
+    "SchoolId": "748",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803748",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Kra Daadi",
+    "SchoolId": "216",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803216",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Longding",
+    "SchoolId": "224",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803224",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Lower Dibang Valley",
+    "SchoolId": "863",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803863",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Lower Subansiri",
+    "SchoolId": "226",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803226",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Namsai",
+    "SchoolId": "230",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803230",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Papum Pare",
+    "SchoolId": "233",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803233",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Tawang",
+    "SchoolId": "237",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803237",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Tirap",
+    "SchoolId": "878",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803878",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Upper Siang",
+    "SchoolId": "241",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803241",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Upper Subansiri",
+    "SchoolId": "249",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803249",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "West Kameng",
+    "SchoolId": "746",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803746",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "West Siang",
+    "SchoolId": "252",
+    "stateId": "3",
+    "StateName": "ARUNACHAL PRADESH",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "803252",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Baksa",
+    "SchoolId": "257",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804257",
+    "StateCode": "AR"
+  },
+  {
+    "SchoolName": "Barpeta",
+    "SchoolId": "259",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804259",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Bongaigaon",
+    "SchoolId": "262",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804262",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Cachar",
+    "SchoolId": "270",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804270",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Chirang",
+    "SchoolId": "274",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804274",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Darrang",
+    "SchoolId": "277",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804277",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Dhemaji",
+    "SchoolId": "280",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804280",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Dhubri",
+    "SchoolId": "283",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804283",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Dibrugarh",
+    "SchoolId": "286",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804286",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Dima Hasao",
+    "SchoolId": "289",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804289",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Goalpara",
+    "SchoolId": "293",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804293",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Golaghat",
+    "SchoolId": "296",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804296",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Hailakandi",
+    "SchoolId": "301",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804301",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Jorhat",
+    "SchoolId": "299",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804299",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Kamrup",
+    "SchoolId": "309",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804309",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Karbi Anglong",
+    "SchoolId": "316",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804316",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Karimganj",
+    "SchoolId": "324",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804324",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Kokrajhar",
+    "SchoolId": "793",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804793",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Lakhimpur",
+    "SchoolId": "327",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804327",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Morigaon",
+    "SchoolId": "330",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804330",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Nagaon",
+    "SchoolId": "334",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804334",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Nalbari",
+    "SchoolId": "336",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804336",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Sivasagar",
+    "SchoolId": "339",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804339",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Sonitpur",
+    "SchoolId": "341",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804341",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Tinsukia",
+    "SchoolId": "344",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804344",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Udalguri",
+    "SchoolId": "348",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804348",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "West Karbianglong",
+    "SchoolId": "791",
+    "stateId": "4",
+    "StateName": "ASSAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "804791",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Araria",
+    "SchoolId": "353",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605353",
+    "StateCode": "AS"
+  },
+  {
+    "SchoolName": "Arwal",
+    "SchoolId": "356",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605356",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Aurangabad",
+    "SchoolId": "359",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605359",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Banka",
+    "SchoolId": "362",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605362",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Begusarai",
+    "SchoolId": "365",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605365",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Bhagalpur",
+    "SchoolId": "368",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605368",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Bhojpur",
+    "SchoolId": "372",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605372",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Buxar",
+    "SchoolId": "380",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605380",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Darbhanga",
+    "SchoolId": "384",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605384",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "East Champaran",
+    "SchoolId": "391",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605391",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Gaya-1",
+    "SchoolId": "599",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605599",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Gaya-2",
+    "SchoolId": "602",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605602",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Gopalganj",
+    "SchoolId": "397",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605397",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Jamui",
+    "SchoolId": "401",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605401",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Jehanabad",
+    "SchoolId": "403",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605403",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Kaimur",
+    "SchoolId": "407",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605407",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Katihar",
+    "SchoolId": "410",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605410",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Khagaria",
+    "SchoolId": "416",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605416",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Kishanganj",
+    "SchoolId": "421",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605421",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Lakhisarai",
+    "SchoolId": "427",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605427",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Madhepura",
+    "SchoolId": "432",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605432",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Madhubani",
+    "SchoolId": "437",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605437",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Munger",
+    "SchoolId": "442",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605442",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Muzaffarpur",
+    "SchoolId": "444",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605444",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Nalanda",
+    "SchoolId": "449",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605449",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Nawada",
+    "SchoolId": "452",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605452",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Patna",
+    "SchoolId": "460",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605460",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Purnia",
+    "SchoolId": "463",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605463",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Rohtas",
+    "SchoolId": "466",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605466",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Saharsa",
+    "SchoolId": "468",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605468",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Samastipur",
+    "SchoolId": "471",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605471",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Saran",
+    "SchoolId": "477",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605477",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Sheikhpura",
+    "SchoolId": "479",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605479",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Sheohar",
+    "SchoolId": "480",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605480",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Sitamarhi",
+    "SchoolId": "482",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605482",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Siwan",
+    "SchoolId": "484",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605484",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Supaul",
+    "SchoolId": "486",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605486",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Vaishali",
+    "SchoolId": "490",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605490",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "West Champaran",
+    "SchoolId": "491",
+    "stateId": "5",
+    "StateName": "BIHAR",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "605491",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Chandigarh",
+    "SchoolId": "509",
+    "stateId": "6",
+    "StateName": "CHANDIGARH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "206509",
+    "StateCode": "BR"
+  },
+  {
+    "SchoolName": "Balod",
+    "SchoolId": "805",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107805",
+    "StateCode": "CH"
+  },
+  {
+    "SchoolName": "Baloda Bazar",
+    "SchoolId": "807",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107807",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Balrampur_CG",
+    "SchoolId": "809",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107809",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Bastar",
+    "SchoolId": "512",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107512",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Bemetara",
+    "SchoolId": "812",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107812",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Bijapur",
+    "SchoolId": "814",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107814",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Bilaspur_CG",
+    "SchoolId": "515",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107515",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Dantewada",
+    "SchoolId": "517",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107517",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Dhamtari",
+    "SchoolId": "519",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107519",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Durg",
+    "SchoolId": "521",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107521",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Gariaband",
+    "SchoolId": "817",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107817",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Janjgir-Champa",
+    "SchoolId": "523",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107523",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Jashpur",
+    "SchoolId": "525",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107525",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Kabirdham (Formaerly Kawardha)",
+    "SchoolId": "528",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107528",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Kanker",
+    "SchoolId": "530",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107530",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Kondagaon",
+    "SchoolId": "819",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107819",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Korba",
+    "SchoolId": "532",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107532",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Koriya",
+    "SchoolId": "796",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107796",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Mahasamund",
+    "SchoolId": "534",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107534",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Mungeli",
+    "SchoolId": "820",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107820",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Narayanpur",
+    "SchoolId": "823",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107823",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Raigarh",
+    "SchoolId": "537",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107537",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Raipur",
+    "SchoolId": "539",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107539",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Rajnadgaon",
+    "SchoolId": "541",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107541",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Sukma",
+    "SchoolId": "542",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107542",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Sukma(New)",
+    "SchoolId": "824",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107824",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Surajpur",
+    "SchoolId": "545",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107545",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Surguja",
+    "SchoolId": "825",
+    "stateId": "7",
+    "StateName": "CHHATTISGARH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "107825",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Dadra And Nagar Haveli",
+    "SchoolId": "547",
+    "stateId": "8",
+    "StateName": "DADRA & NAGAR HAVELI",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "708547",
+    "StateCode": "CG"
+  },
+  {
+    "SchoolName": "Daman",
+    "SchoolId": "549",
+    "stateId": "9",
+    "StateName": "DAMAN & DIU",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "709549",
+    "StateCode": "DN"
+  },
+  {
+    "SchoolName": "Diu",
+    "SchoolId": "551",
+    "stateId": "9",
+    "StateName": "DAMAN & DIU",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "709551",
+    "StateCode": "DD"
+  },
+  {
+    "SchoolName": "North West Delhi",
+    "SchoolId": "553",
+    "stateId": "10",
+    "StateName": "DELHI",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "410553",
+    "StateCode": "DD"
+  },
+  {
+    "SchoolName": "South West Delhi",
+    "SchoolId": "555",
+    "stateId": "10",
+    "StateName": "DELHI",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "410555",
+    "StateCode": "DL"
+  },
+  {
+    "SchoolName": "North Goa",
+    "SchoolId": "558",
+    "stateId": "11",
+    "StateName": "GOA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "711558",
+    "StateCode": "DL"
+  },
+  {
+    "SchoolName": "South Goa",
+    "SchoolId": "560",
+    "stateId": "11",
+    "StateName": "GOA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "711560",
+    "StateCode": "GA"
+  },
+  {
+    "SchoolName": "Ahmedabad",
+    "SchoolId": "836",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712836",
+    "StateCode": "GA"
+  },
+  {
+    "SchoolName": "Amreli",
+    "SchoolId": "562",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712562",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Anand",
+    "SchoolId": "749",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712749",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Aravalli",
+    "SchoolId": "170",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712170",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Banaskatha",
+    "SchoolId": "565",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712565",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Bharuch",
+    "SchoolId": "567",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712567",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Bhavnagar",
+    "SchoolId": "569",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712569",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Botad",
+    "SchoolId": "837",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712837",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Chhota Udepur",
+    "SchoolId": "877",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712877",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Dahod-1",
+    "SchoolId": "570",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712570",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Dahod-2",
+    "SchoolId": "572",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712572",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Dang",
+    "SchoolId": "574",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712574",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Dwarka",
+    "SchoolId": "840",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712840",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Gandhinagar",
+    "SchoolId": "577",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712577",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Jamnagar",
+    "SchoolId": "579",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712579",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Junagadh-1",
+    "SchoolId": "147",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712147",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Junagadh-2",
+    "SchoolId": "792",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712792",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Kheda",
+    "SchoolId": "149",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712149",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Kutch",
+    "SchoolId": "152",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712152",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Mahisagar",
+    "SchoolId": "794",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712794",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Mehsana",
+    "SchoolId": "155",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712155",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Morbi",
+    "SchoolId": "876",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712876",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Narmada",
+    "SchoolId": "157",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712157",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Navsari",
+    "SchoolId": "160",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712160",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Panchmahal",
+    "SchoolId": "162",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712162",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Patan",
+    "SchoolId": "163",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712163",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Porbandar",
+    "SchoolId": "164",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712164",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Rajkot",
+    "SchoolId": "166",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712166",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Sabarkantha-1",
+    "SchoolId": "757",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712757",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Surat",
+    "SchoolId": "875",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712875",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Surendranagar",
+    "SchoolId": "174",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712174",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Tapi",
+    "SchoolId": "798",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712798",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Vadodara",
+    "SchoolId": "178",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712178",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Valsad",
+    "SchoolId": "180",
+    "stateId": "12",
+    "StateName": "GUJARAT",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "712180",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Ambala",
+    "SchoolId": "182",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413182",
+    "StateCode": "GJ"
+  },
+  {
+    "SchoolName": "Bhiwani",
+    "SchoolId": "184",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413184",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Faridabad",
+    "SchoolId": "185",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413185",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Fatehabad",
+    "SchoolId": "188",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413188",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Gurgaon",
+    "SchoolId": "191",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413191",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Hissar",
+    "SchoolId": "194",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413194",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Jhajjar",
+    "SchoolId": "197",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413197",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Jind",
+    "SchoolId": "199",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413199",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Kaithal",
+    "SchoolId": "200",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413200",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Karnal",
+    "SchoolId": "202",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413202",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Kurukshetra",
+    "SchoolId": "759",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413759",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Mahendragarh",
+    "SchoolId": "208",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413208",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Mewat",
+    "SchoolId": "205",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413205",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Palwal",
+    "SchoolId": "209",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413209",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Panchkula",
+    "SchoolId": "210",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413210",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Panipat",
+    "SchoolId": "760",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413760",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Rewari",
+    "SchoolId": "213",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413213",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Rohtak",
+    "SchoolId": "214",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413214",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Sirsa",
+    "SchoolId": "215",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413215",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Sonipat",
+    "SchoolId": "782",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413782",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Yamuna Nagar",
+    "SchoolId": "218",
+    "stateId": "13",
+    "StateName": "HARYANA",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "413218",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Bilaspur",
+    "SchoolId": "221",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214221",
+    "StateCode": "HR"
+  },
+  {
+    "SchoolName": "Chamba",
+    "SchoolId": "223",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214223",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Hamirpur",
+    "SchoolId": "225",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214225",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Kangra",
+    "SchoolId": "228",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214228",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Kinnaur",
+    "SchoolId": "229",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214229",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Kullu",
+    "SchoolId": "232",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214232",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Lahaul And Spiti",
+    "SchoolId": "235",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214235",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Mandi",
+    "SchoolId": "236",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214236",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Shimla",
+    "SchoolId": "239",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214239",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Sirmaur",
+    "SchoolId": "243",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214243",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Solan",
+    "SchoolId": "245",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214245",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Una",
+    "SchoolId": "246",
+    "stateId": "14",
+    "StateName": "HIMACHAL PRADESH",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "214246",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Bokrao",
+    "SchoolId": "287",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615287",
+    "StateCode": "HP"
+  },
+  {
+    "SchoolName": "Chatra",
+    "SchoolId": "785",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615785",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Deoghar",
+    "SchoolId": "290",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615290",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Dhanbad",
+    "SchoolId": "292",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615292",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Dumka",
+    "SchoolId": "294",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615294",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "East Singhbhum",
+    "SchoolId": "297",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615297",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Garhwa",
+    "SchoolId": "752",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615752",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Giridih",
+    "SchoolId": "302",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615302",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Godda",
+    "SchoolId": "304",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615304",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Gumla",
+    "SchoolId": "305",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615305",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Hazaribag",
+    "SchoolId": "306",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615306",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Jamtara",
+    "SchoolId": "308",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615308",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Khunti",
+    "SchoolId": "810",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615810",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Koderma",
+    "SchoolId": "311",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615311",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Lahordaga",
+    "SchoolId": "315",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615315",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Latehar",
+    "SchoolId": "312",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615312",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Pakur-1",
+    "SchoolId": "317",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615317",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Pakur-2",
+    "SchoolId": "319",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615319",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Palamu-1",
+    "SchoolId": "320",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615320",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Palamu-2",
+    "SchoolId": "322",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615322",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Ramgarh",
+    "SchoolId": "811",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615811",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Ranchi",
+    "SchoolId": "325",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615325",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Sahibganj",
+    "SchoolId": "328",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615328",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Seraikela Kharswan",
+    "SchoolId": "331",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615331",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Simdega",
+    "SchoolId": "333",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615333",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "West Singhbhum",
+    "SchoolId": "337",
+    "stateId": "15",
+    "StateName": "JHARKHAND",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "615337",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Anantnag",
+    "SchoolId": "248",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216248",
+    "StateCode": "JH"
+  },
+  {
+    "SchoolName": "Badgam",
+    "SchoolId": "253",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216253",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Bandipora",
+    "SchoolId": "880",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216880",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Baramulla",
+    "SchoolId": "751",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216751",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Doda",
+    "SchoolId": "255",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216255",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Ganderbal",
+    "SchoolId": "258",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216258",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Jammu-1",
+    "SchoolId": "261",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216261",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Jammu-2",
+    "SchoolId": "263",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216263",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Kargil",
+    "SchoolId": "264",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216264",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Kathua",
+    "SchoolId": "267",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216267",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Kishtwar",
+    "SchoolId": "802",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216802",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Kulgam",
+    "SchoolId": "268",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216268",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Kupwara",
+    "SchoolId": "269",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216269",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Leh",
+    "SchoolId": "272",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216272",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Poonch",
+    "SchoolId": "273",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216273",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Pulwama",
+    "SchoolId": "874",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216874",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Rajouri",
+    "SchoolId": "276",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216276",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Ramban",
+    "SchoolId": "804",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216804",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Reasi",
+    "SchoolId": "279",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216279",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Samba",
+    "SchoolId": "281",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216281",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Shopian",
+    "SchoolId": "284",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216284",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Udhampur",
+    "SchoolId": "285",
+    "stateId": "16",
+    "StateName": "JAMMU & KASHMIR",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "216285",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Bagalkot",
+    "SchoolId": "340",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317340",
+    "StateCode": "JK"
+  },
+  {
+    "SchoolName": "Bangalore Rural",
+    "SchoolId": "342",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317342",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Bangalore Urban",
+    "SchoolId": "345",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317345",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Belgaum",
+    "SchoolId": "347",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317347",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Bellary",
+    "SchoolId": "350",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317350",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Bidar",
+    "SchoolId": "351",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317351",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Bijapur",
+    "SchoolId": "354",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317354",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Chamarajnagar",
+    "SchoolId": "357",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317357",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Chickaballapura",
+    "SchoolId": "360",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317360",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Chickmagalore",
+    "SchoolId": "787",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317787",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Chitradurga",
+    "SchoolId": "367",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317367",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Davanagere",
+    "SchoolId": "369",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317369",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Dharwad",
+    "SchoolId": "371",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317371",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Gadag",
+    "SchoolId": "373",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317373",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Gulberga",
+    "SchoolId": "379",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317379",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Hassan",
+    "SchoolId": "375",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317375",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Haveri",
+    "SchoolId": "377",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317377",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Kalaburagi",
+    "SchoolId": "841",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317841",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Kodagu",
+    "SchoolId": "387",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317387",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Kolar",
+    "SchoolId": "382",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317382",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Koppal",
+    "SchoolId": "388",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317388",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Mandya",
+    "SchoolId": "390",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317390",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Mysore",
+    "SchoolId": "393",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317393",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "North Canara",
+    "SchoolId": "753",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317753",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Raichur",
+    "SchoolId": "398",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317398",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Ramanagara",
+    "SchoolId": "395",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317395",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Shimoga",
+    "SchoolId": "400",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317400",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "South Canara",
+    "SchoolId": "754",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317754",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Tumkur",
+    "SchoolId": "404",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317404",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Udupi",
+    "SchoolId": "406",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317406",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Yadgir",
+    "SchoolId": "409",
+    "stateId": "17",
+    "StateName": "KARNATAKA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "317409",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Alappuzha(Alleppey)",
+    "SchoolId": "412",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318412",
+    "StateCode": "KA"
+  },
+  {
+    "SchoolName": "Ernakulam",
+    "SchoolId": "418",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318418",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Idukki",
+    "SchoolId": "420",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318420",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Kannur",
+    "SchoolId": "423",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318423",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Kasaragod",
+    "SchoolId": "424",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318424",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Kollam",
+    "SchoolId": "426",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318426",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Kottatam",
+    "SchoolId": "428",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318428",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Kozhikode",
+    "SchoolId": "415",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318415",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Malappuram",
+    "SchoolId": "430",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318430",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Palakkad",
+    "SchoolId": "433",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318433",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Pathanamthitta",
+    "SchoolId": "435",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318435",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Thiruvananthapuram",
+    "SchoolId": "440",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318440",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Thrissur",
+    "SchoolId": "438",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318438",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Wynad",
+    "SchoolId": "441",
+    "stateId": "18",
+    "StateName": "KERALA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "318441",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Minicoy",
+    "SchoolId": "755",
+    "stateId": "19",
+    "StateName": "LAKSHADWEEP",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "319755",
+    "StateCode": "KL"
+  },
+  {
+    "SchoolName": "Agar Malawa",
+    "SchoolId": "815",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120815",
+    "StateCode": "LD"
+  },
+  {
+    "SchoolName": "Alirajpur",
+    "SchoolId": "448",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120448",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Anuppur",
+    "SchoolId": "451",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120451",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Ashok Nagar",
+    "SchoolId": "453",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120453",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Balaghat",
+    "SchoolId": "458",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120458",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Barwani",
+    "SchoolId": "455",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120455",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Betul",
+    "SchoolId": "461",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120461",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Bhind",
+    "SchoolId": "462",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120462",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Bhopal",
+    "SchoolId": "756",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120756",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Bhuranpur",
+    "SchoolId": "464",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120464",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Chhatarpur",
+    "SchoolId": "467",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120467",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Chhindwara",
+    "SchoolId": "469",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120469",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Damoh",
+    "SchoolId": "154",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120154",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Datia",
+    "SchoolId": "159",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120159",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Dewas",
+    "SchoolId": "161",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120161",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Dhar",
+    "SchoolId": "165",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120165",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Dindori",
+    "SchoolId": "169",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120169",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Guna",
+    "SchoolId": "173",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120173",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Gwalior",
+    "SchoolId": "176",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120176",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Harda",
+    "SchoolId": "179",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120179",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Hoshangabad",
+    "SchoolId": "183",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120183",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Indore",
+    "SchoolId": "186",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120186",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Jabalpur",
+    "SchoolId": "190",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120190",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Jhabua",
+    "SchoolId": "195",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120195",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Jhabua-1(New)",
+    "SchoolId": "869",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120869",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Katni",
+    "SchoolId": "204",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120204",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Khandwa",
+    "SchoolId": "207",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120207",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Khargone",
+    "SchoolId": "212",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120212",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Mandla",
+    "SchoolId": "217",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120217",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Mandsaur",
+    "SchoolId": "219",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120219",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Morena",
+    "SchoolId": "222",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120222",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Narsinghpur",
+    "SchoolId": "227",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120227",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Neemuch",
+    "SchoolId": "231",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120231",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Panna",
+    "SchoolId": "234",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120234",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Raisen",
+    "SchoolId": "238",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120238",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Rajgarh",
+    "SchoolId": "242",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120242",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Ratlam",
+    "SchoolId": "244",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120244",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Ratlam2",
+    "SchoolId": "881",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120881",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Rewa",
+    "SchoolId": "247",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120247",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Sagar",
+    "SchoolId": "250",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120250",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Satna",
+    "SchoolId": "254",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120254",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Sehore",
+    "SchoolId": "256",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120256",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Seoni",
+    "SchoolId": "260",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120260",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Shahdol",
+    "SchoolId": "266",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120266",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Shajapur",
+    "SchoolId": "271",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120271",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Sheopur",
+    "SchoolId": "275",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120275",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Shivpuri",
+    "SchoolId": "278",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120278",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Sidhi",
+    "SchoolId": "282",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120282",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Singrauli",
+    "SchoolId": "835",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120835",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Tikamgarh",
+    "SchoolId": "288",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120288",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Ujjain",
+    "SchoolId": "291",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120291",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Ujjain-2",
+    "SchoolId": "783",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120783",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Umaria",
+    "SchoolId": "300",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120300",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Vidisha",
+    "SchoolId": "303",
+    "stateId": "20",
+    "StateName": "MADHYA PRADESH",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "120303",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Ahmednagar",
+    "SchoolId": "307",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721307",
+    "StateCode": "MP"
+  },
+  {
+    "SchoolName": "Akola",
+    "SchoolId": "310",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721310",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Amravti",
+    "SchoolId": "314",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721314",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Aurangabad",
+    "SchoolId": "318",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721318",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Beed",
+    "SchoolId": "323",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721323",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Bhandara",
+    "SchoolId": "321",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721321",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Buldana",
+    "SchoolId": "326",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721326",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Chandrapur",
+    "SchoolId": "329",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721329",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Dhule",
+    "SchoolId": "332",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721332",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Gadchiroli",
+    "SchoolId": "335",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721335",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Gondia",
+    "SchoolId": "338",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721338",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Hingoli",
+    "SchoolId": "343",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721343",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Jalgaon",
+    "SchoolId": "346",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721346",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Jalna",
+    "SchoolId": "349",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721349",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Kolhapur",
+    "SchoolId": "352",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721352",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Latur",
+    "SchoolId": "355",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721355",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Nagpur",
+    "SchoolId": "358",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721358",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Nanded",
+    "SchoolId": "363",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721363",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Nandurbar-1",
+    "SchoolId": "366",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721366",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Nandurbar-2",
+    "SchoolId": "806",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721806",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Nasik",
+    "SchoolId": "374",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721374",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Osmanabad",
+    "SchoolId": "376",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721376",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Parbhani",
+    "SchoolId": "378",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721378",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Pune",
+    "SchoolId": "381",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721381",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Raigad",
+    "SchoolId": "385",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721385",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Ratnagiri",
+    "SchoolId": "386",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721386",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Sangli",
+    "SchoolId": "389",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721389",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Satara",
+    "SchoolId": "392",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721392",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Sindhudurg",
+    "SchoolId": "394",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721394",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Solapur",
+    "SchoolId": "396",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721396",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Thane",
+    "SchoolId": "399",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721399",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Wardha",
+    "SchoolId": "402",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721402",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Washim",
+    "SchoolId": "405",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721405",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Yavatmal",
+    "SchoolId": "408",
+    "stateId": "21",
+    "StateName": "MAHARASHTRA",
+    "RegionId": "7",
+    "RegionName": "Pune",
+    "UniqueId": "721408",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Bishnupur",
+    "SchoolId": "411",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822411",
+    "StateCode": "MH"
+  },
+  {
+    "SchoolName": "Chandel",
+    "SchoolId": "414",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822414",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Churachandpur",
+    "SchoolId": "417",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822417",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "East Imphal",
+    "SchoolId": "422",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822422",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Senapati-1",
+    "SchoolId": "425",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822425",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Senapati-2",
+    "SchoolId": "429",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822429",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Tamenglong",
+    "SchoolId": "431",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822431",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Thoubal",
+    "SchoolId": "436",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822436",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Ukhrul-1",
+    "SchoolId": "439",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822439",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "Ukhrul-3",
+    "SchoolId": "443",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822443",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "West Imphal",
+    "SchoolId": "446",
+    "stateId": "22",
+    "StateName": "MANIPUR",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "822446",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "East Garo Hills",
+    "SchoolId": "447",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823447",
+    "StateCode": "MN"
+  },
+  {
+    "SchoolName": "East Jaintia Hills",
+    "SchoolId": "816",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823816",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "East Khasi Hills-1",
+    "SchoolId": "454",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823454",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "East Khasi Hills-2",
+    "SchoolId": "459",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823459",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "North Garo Hills",
+    "SchoolId": "818",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823818",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "Ri Bhoi",
+    "SchoolId": "472",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823472",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "South Garo Hills",
+    "SchoolId": "485",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823485",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "South West Garo Hills",
+    "SchoolId": "750",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823750",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "South West Khasi Hills",
+    "SchoolId": "822",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823822",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "West Garo Hills",
+    "SchoolId": "882",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823882",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "West Jaintia Hills",
+    "SchoolId": "492",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823492",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "West Khasi Hills",
+    "SchoolId": "494",
+    "stateId": "23",
+    "StateName": "MEGHALAYA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "823494",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "Alzawal",
+    "SchoolId": "495",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824495",
+    "StateCode": "ML"
+  },
+  {
+    "SchoolName": "Champhai",
+    "SchoolId": "497",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824497",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Kolasib",
+    "SchoolId": "499",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824499",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Lawngtlai",
+    "SchoolId": "510",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824510",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Lunglei",
+    "SchoolId": "511",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824511",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Mamit",
+    "SchoolId": "513",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824513",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Saiha",
+    "SchoolId": "733",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824733",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Serchip",
+    "SchoolId": "514",
+    "stateId": "24",
+    "StateName": "MIZORAM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "824514",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Dimapur",
+    "SchoolId": "516",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825516",
+    "StateCode": "MZ"
+  },
+  {
+    "SchoolName": "Kiphire",
+    "SchoolId": "734",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825734",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Kohima",
+    "SchoolId": "518",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825518",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Longleng",
+    "SchoolId": "520",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825520",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Mokukchung",
+    "SchoolId": "522",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825522",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Mon",
+    "SchoolId": "524",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825524",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Peren",
+    "SchoolId": "526",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825526",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Phek",
+    "SchoolId": "527",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825527",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Tuensang",
+    "SchoolId": "529",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825529",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Wokha",
+    "SchoolId": "531",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825531",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Zunheboto",
+    "SchoolId": "533",
+    "stateId": "25",
+    "StateName": "NAGALAND",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "825533",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Angul",
+    "SchoolId": "535",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126535",
+    "StateCode": "NL"
+  },
+  {
+    "SchoolName": "Balasore",
+    "SchoolId": "536",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126536",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Bargarh",
+    "SchoolId": "538",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126538",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Bhadrak",
+    "SchoolId": "540",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126540",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Bolangir",
+    "SchoolId": "543",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126543",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Boudh",
+    "SchoolId": "544",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126544",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Cuttack",
+    "SchoolId": "546",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126546",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Deogarh",
+    "SchoolId": "548",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126548",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Dhenkanal",
+    "SchoolId": "550",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126550",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Gajapati",
+    "SchoolId": "552",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126552",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Ganjam",
+    "SchoolId": "554",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126554",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Jagatsinghpur",
+    "SchoolId": "556",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126556",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Jajpur",
+    "SchoolId": "557",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126557",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Jharsuguda",
+    "SchoolId": "559",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126559",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Kalahandi",
+    "SchoolId": "561",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126561",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Kendrapara",
+    "SchoolId": "563",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126563",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Keonjhar",
+    "SchoolId": "564",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126564",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Khurda",
+    "SchoolId": "566",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126566",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Koraput",
+    "SchoolId": "568",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126568",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Malkangiri-1",
+    "SchoolId": "571",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126571",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Malkangiri-2",
+    "SchoolId": "573",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126573",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Mayurbhanj",
+    "SchoolId": "575",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126575",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Navarangpur",
+    "SchoolId": "578",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126578",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Nayagarh",
+    "SchoolId": "580",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126580",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Nuapada",
+    "SchoolId": "582",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126582",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Phulbani",
+    "SchoolId": "731",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126731",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Puri",
+    "SchoolId": "583",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126583",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Rayagada",
+    "SchoolId": "584",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126584",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Sambalpur",
+    "SchoolId": "585",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126585",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Sonepur",
+    "SchoolId": "732",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126732",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Sundargarh",
+    "SchoolId": "588",
+    "stateId": "26",
+    "StateName": "ODISHA",
+    "RegionId": "1",
+    "RegionName": "Bhopal",
+    "UniqueId": "126588",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Karaikal",
+    "SchoolId": "590",
+    "stateId": "27",
+    "StateName": "PONDICHERRY",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "327590",
+    "StateCode": "OD"
+  },
+  {
+    "SchoolName": "Mahe",
+    "SchoolId": "592",
+    "stateId": "27",
+    "StateName": "PONDICHERRY",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "327592",
+    "StateCode": "PY"
+  },
+  {
+    "SchoolName": "Puducherry",
+    "SchoolId": "595",
+    "stateId": "27",
+    "StateName": "PONDICHERRY",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "327595",
+    "StateCode": "PY"
+  },
+  {
+    "SchoolName": "Yanam",
+    "SchoolId": "597",
+    "stateId": "27",
+    "StateName": "PONDICHERRY",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "327597",
+    "StateCode": "PY"
+  },
+  {
+    "SchoolName": "Amritsar-1",
+    "SchoolId": "601",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228601",
+    "StateCode": "PY"
+  },
+  {
+    "SchoolName": "Amritsar-2",
+    "SchoolId": "604",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228604",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Barnala",
+    "SchoolId": "605",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228605",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Bathinda",
+    "SchoolId": "606",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228606",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Faridkot",
+    "SchoolId": "607",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228607",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Fatehgarh Sahib",
+    "SchoolId": "608",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228608",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Fazilka",
+    "SchoolId": "828",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228828",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Ferozepur",
+    "SchoolId": "609",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228609",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Gurdaspur",
+    "SchoolId": "873",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228873",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Hoshiarpur",
+    "SchoolId": "761",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228761",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Jalandhar",
+    "SchoolId": "762",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228762",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Kapurthala",
+    "SchoolId": "763",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228763",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Ludhiana",
+    "SchoolId": "764",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228764",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Mansa",
+    "SchoolId": "765",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228765",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Moga",
+    "SchoolId": "766",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228766",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Mohali",
+    "SchoolId": "776",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228776",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Muktsar",
+    "SchoolId": "777",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228777",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Pathankot",
+    "SchoolId": "767",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228767",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Patiala",
+    "SchoolId": "768",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228768",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Ropar",
+    "SchoolId": "778",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228778",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Sangrur",
+    "SchoolId": "770",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228770",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "SBSNagar",
+    "SchoolId": "769",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228769",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Taran Taran",
+    "SchoolId": "842",
+    "stateId": "28",
+    "StateName": "PUNJAB",
+    "RegionId": "2",
+    "RegionName": "Chandigarh",
+    "UniqueId": "228842",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Ajmer",
+    "SchoolId": "771",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429771",
+    "StateCode": "PB"
+  },
+  {
+    "SchoolName": "Alwar",
+    "SchoolId": "772",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429772",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Banswar-1",
+    "SchoolId": "774",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429774",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Banswar-2",
+    "SchoolId": "773",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429773",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Baran",
+    "SchoolId": "775",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429775",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Barmer",
+    "SchoolId": "727",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429727",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Bharatpur",
+    "SchoolId": "728",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429728",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Bhilwara",
+    "SchoolId": "729",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429729",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Bikaner",
+    "SchoolId": "726",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429726",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Bundi",
+    "SchoolId": "725",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429725",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Chittorgarh",
+    "SchoolId": "724",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429724",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Churu",
+    "SchoolId": "723",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429723",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Dausa",
+    "SchoolId": "722",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429722",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Dholpur",
+    "SchoolId": "721",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429721",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Dungapur",
+    "SchoolId": "720",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429720",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Ganganagar 1",
+    "SchoolId": "704",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429704",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Ganganagar 2",
+    "SchoolId": "703",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429703",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Hanumangarh",
+    "SchoolId": "719",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429719",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Jaipur",
+    "SchoolId": "718",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429718",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Jaisalmer",
+    "SchoolId": "717",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429717",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Jalore",
+    "SchoolId": "716",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429716",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Jhalawar",
+    "SchoolId": "715",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429715",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Jhunjhunu",
+    "SchoolId": "714",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429714",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Jodhpur",
+    "SchoolId": "713",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429713",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Karauli",
+    "SchoolId": "712",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429712",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Kota",
+    "SchoolId": "711",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429711",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Nagaur",
+    "SchoolId": "710",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429710",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Pali",
+    "SchoolId": "709",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429709",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Pratagarh",
+    "SchoolId": "843",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429843",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Rajsamand",
+    "SchoolId": "708",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429708",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Sawai Madhopur",
+    "SchoolId": "707",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429707",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Sikar",
+    "SchoolId": "706",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429706",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Sirohi",
+    "SchoolId": "705",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429705",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Tonk",
+    "SchoolId": "702",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429702",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "Udaipur",
+    "SchoolId": "701",
+    "stateId": "29",
+    "StateName": "RAJASTHAN",
+    "RegionId": "4",
+    "RegionName": "Jaipur",
+    "UniqueId": "429701",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "East Sikkim",
+    "SchoolId": "862",
+    "stateId": "30",
+    "StateName": "SIKKIM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "830862",
+    "StateCode": "RJ"
+  },
+  {
+    "SchoolName": "North Sikkim",
+    "SchoolId": "699",
+    "stateId": "30",
+    "StateName": "SIKKIM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "830699",
+    "StateCode": "SK"
+  },
+  {
+    "SchoolName": "South Sikkim",
+    "SchoolId": "698",
+    "stateId": "30",
+    "StateName": "SIKKIM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "830698",
+    "StateCode": "SK"
+  },
+  {
+    "SchoolName": "West Sikkim",
+    "SchoolId": "697",
+    "stateId": "30",
+    "StateName": "SIKKIM",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "830697",
+    "StateCode": "SK"
+  },
+  {
+    "SchoolName": "Adilabad",
+    "SchoolId": "696",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332696",
+    "StateCode": "SK"
+  },
+  {
+    "SchoolName": "Karimnagar",
+    "SchoolId": "695",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332695",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Khammam",
+    "SchoolId": "694",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332694",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Mahbubnagara",
+    "SchoolId": "693",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332693",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Medak",
+    "SchoolId": "692",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332692",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Nalgonda",
+    "SchoolId": "691",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332691",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Nazimabad",
+    "SchoolId": "690",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332690",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Ranga Reddy",
+    "SchoolId": "689",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332689",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Warangal",
+    "SchoolId": "688",
+    "stateId": "32",
+    "StateName": "TELANGANA",
+    "RegionId": "3",
+    "RegionName": "Hyderabad",
+    "UniqueId": "332688",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Dhalai",
+    "SchoolId": "687",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833687",
+    "StateCode": "TS"
+  },
+  {
+    "SchoolName": "Gomati",
+    "SchoolId": "685",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833685",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "Khowai",
+    "SchoolId": "686",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833686",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "North Tripura",
+    "SchoolId": "781",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833781",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "Shepahijala",
+    "SchoolId": "846",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833846",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "South Tripura",
+    "SchoolId": "847",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833847",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "Unokoti",
+    "SchoolId": "871",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833871",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "West Tripura",
+    "SchoolId": "849",
+    "stateId": "33",
+    "StateName": "TRIPURA",
+    "RegionId": "8",
+    "RegionName": "Shillong",
+    "UniqueId": "833849",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "Agra",
+    "SchoolId": "684",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534684",
+    "StateCode": "TR"
+  },
+  {
+    "SchoolName": "Aligarh",
+    "SchoolId": "683",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534683",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Allahabad",
+    "SchoolId": "682",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534682",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Ambedkar Nagar",
+    "SchoolId": "681",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534681",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Amethi",
+    "SchoolId": "680",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534680",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Amroha",
+    "SchoolId": "780",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534780",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Auraiya",
+    "SchoolId": "679",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534679",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Azamgarh",
+    "SchoolId": "678",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534678",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Bagpat",
+    "SchoolId": "675",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534675",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Bahraich",
+    "SchoolId": "674",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534674",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Ballia",
+    "SchoolId": "673",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534673",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Balrampur",
+    "SchoolId": "672",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534672",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Banda",
+    "SchoolId": "671",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534671",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Barabanki",
+    "SchoolId": "670",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534670",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Bareilly",
+    "SchoolId": "669",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534669",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Basti",
+    "SchoolId": "668",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534668",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Bijnor",
+    "SchoolId": "850",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534850",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Budaun",
+    "SchoolId": "676",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534676",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Budaun 1",
+    "SchoolId": "677",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534677",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Bulandshahr",
+    "SchoolId": "667",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534667",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Chandauli",
+    "SchoolId": "666",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534666",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Chitrakoot",
+    "SchoolId": "665",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534665",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Deoria",
+    "SchoolId": "664",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534664",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Etah",
+    "SchoolId": "663",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534663",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Etawah",
+    "SchoolId": "662",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534662",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Faizabad",
+    "SchoolId": "661",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534661",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Farrukhabad",
+    "SchoolId": "660",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534660",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Fatehpur",
+    "SchoolId": "659",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534659",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Firozabad",
+    "SchoolId": "658",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534658",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Gautam Buddh Nagar",
+    "SchoolId": "657",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534657",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Ghaziabad",
+    "SchoolId": "656",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534656",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Ghazipur",
+    "SchoolId": "655",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534655",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Gonda",
+    "SchoolId": "654",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534654",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Gorakhpur",
+    "SchoolId": "653",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534653",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Hamirpur",
+    "SchoolId": "652",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534652",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Hardoi",
+    "SchoolId": "651",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534651",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Hathras",
+    "SchoolId": "650",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534650",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Jalaun",
+    "SchoolId": "649",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534649",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Jaunpur",
+    "SchoolId": "648",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534648",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Jhansi",
+    "SchoolId": "647",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534647",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Kannauj",
+    "SchoolId": "646",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534646",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Kanpur Dehat",
+    "SchoolId": "645",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534645",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Kanpur Nagar",
+    "SchoolId": "644",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534644",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Kasganj",
+    "SchoolId": "643",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534643",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Kaushambi",
+    "SchoolId": "642",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534642",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Khushinagar",
+    "SchoolId": "641",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534641",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Lakhimpur Khieri",
+    "SchoolId": "640",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534640",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Lalitpur",
+    "SchoolId": "639",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534639",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Lucknow",
+    "SchoolId": "638",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534638",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Maharajgunj",
+    "SchoolId": "637",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534637",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Mahoba",
+    "SchoolId": "636",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534636",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Mainpuri",
+    "SchoolId": "635",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534635",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Mathura",
+    "SchoolId": "634",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534634",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Mau",
+    "SchoolId": "633",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534633",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Meerut",
+    "SchoolId": "632",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534632",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Mirzapur",
+    "SchoolId": "631",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534631",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Moradabad",
+    "SchoolId": "630",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534630",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Muzaffarnagar",
+    "SchoolId": "629",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534629",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Pilibhit",
+    "SchoolId": "628",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534628",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Pratapgarh",
+    "SchoolId": "627",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534627",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Raebareli",
+    "SchoolId": "626",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534626",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Rampur",
+    "SchoolId": "625",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534625",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Saharanpur",
+    "SchoolId": "624",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534624",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Shahjahanpur",
+    "SchoolId": "621",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534621",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Shamli",
+    "SchoolId": "779",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534779",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Shant Kabir Nagar",
+    "SchoolId": "623",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534623",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Shant Ravidas Nagar",
+    "SchoolId": "622",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534622",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Shravasti",
+    "SchoolId": "620",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534620",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Siddharthnagar",
+    "SchoolId": "619",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534619",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Sitapur-1",
+    "SchoolId": "617",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534617",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Sitapur-2",
+    "SchoolId": "618",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534618",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Sonbhadra",
+    "SchoolId": "616",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534616",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Sultanpur",
+    "SchoolId": "872",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534872",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Unnao",
+    "SchoolId": "615",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534615",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Varanasi",
+    "SchoolId": "614",
+    "stateId": "34",
+    "StateName": "UTTAR PRADESH",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "534614",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Almora",
+    "SchoolId": "612",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535612",
+    "StateCode": "UP"
+  },
+  {
+    "SchoolName": "Bageshwar",
+    "SchoolId": "611",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535611",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Chamoli",
+    "SchoolId": "610",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535610",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Champawat",
+    "SchoolId": "603",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535603",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Dehradun",
+    "SchoolId": "600",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535600",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Haridwar",
+    "SchoolId": "598",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535598",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Nainital",
+    "SchoolId": "594",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535594",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Pauri Garhwal",
+    "SchoolId": "591",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535591",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Pithoragarh",
+    "SchoolId": "586",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535586",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Rudraprayag-1",
+    "SchoolId": "581",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535581",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Tehri Garhwal",
+    "SchoolId": "507",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535507",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Udham Singh Nagar",
+    "SchoolId": "613",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535613",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Uttarkashi",
+    "SchoolId": "506",
+    "stateId": "35",
+    "StateName": "UTTARAKHAND",
+    "RegionId": "5",
+    "RegionName": "Lucknow",
+    "UniqueId": "535506",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Alipurdwar",
+    "SchoolId": "493",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636493",
+    "StateCode": "UK"
+  },
+  {
+    "SchoolName": "Bankura",
+    "SchoolId": "505",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636505",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Bardhaman",
+    "SchoolId": "502",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636502",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Birbhum-1",
+    "SchoolId": "503",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636503",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Cooch Behar",
+    "SchoolId": "501",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636501",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Darjeeling",
+    "SchoolId": "500",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636500",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Hooghly",
+    "SchoolId": "498",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636498",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Howrah",
+    "SchoolId": "496",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636496",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Jalpaigauri-1",
+    "SchoolId": "489",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636489",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Murshidabad",
+    "SchoolId": "481",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636481",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Nadia",
+    "SchoolId": "478",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636478",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "North 24 Parganas",
+    "SchoolId": "476",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636476",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Paschim Medinipur",
+    "SchoolId": "858",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636858",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Purba Medinpur",
+    "SchoolId": "859",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636859",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Purulia",
+    "SchoolId": "474",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636474",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "South 24 Parganas-2",
+    "SchoolId": "465",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636465",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "South Dinajpur",
+    "SchoolId": "861",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636861",
+    "StateCode": "WB"
+  },
+  {
+    "SchoolName": "Uttar Dinajpur",
+    "SchoolId": "860",
+    "stateId": "36",
+    "StateName": "WEST BENGAL",
+    "RegionId": "6",
+    "RegionName": "Patna",
+    "UniqueId": "636860",
+    "StateCode": "WB"
+  }
+]
